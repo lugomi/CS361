@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Deadlift",
+        "max": 500
+    },
+    {
+        "name": "Squat",
+        "max": 405
+    }
+]
